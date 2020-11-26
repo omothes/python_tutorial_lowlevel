@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+<gedicht> 
+    <autor>Joachim Ringelnatz</autor>
+	<titel>Die Ameisen</titel> 
+	<strophe> 
+		<vers>In Hamburg lebten zwei Ameisen,</vers> 
+        <vers>Die wollten nach Australien reisen.</vers>
+        <vers>Bei Altona auf der Chaussee</vers>
+        <vers>Da taten ihnen die Beine weh,</vers>
+        <vers>Und da verzichteten sie weise</vers>
+        <vers>Dann auf den letzten Teil der Reise.</vers> 
+	</strophe>
+</gedicht> 
